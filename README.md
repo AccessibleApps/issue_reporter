@@ -11,10 +11,10 @@ Issue Reporter is a Python library that provides a user-friendly GUI for reporti
 
 ## Installation
 
-You can install Issue Reporter using pip:
+Issue Reporter isn't on PyPI, so install it from GitHub with pip:
 
 ```
-pip install issue-reporter
+pip install git+https://github.com/accessibleapps/issue_reporter.git
 ```
 
 ## Usage
